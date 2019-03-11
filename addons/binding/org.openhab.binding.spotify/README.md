@@ -109,7 +109,7 @@ They will dynamically be populated with the user specific devices and playlists.
 __Advanced Channels:__
 
 | Channel Type ID | Item Type | Read/Write | Description                                                                                                                                                                 |
-|-----------------|-----------|------------|----------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------|
+|-----------------|-----------|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | accessToken     | String    | Read-only  | The current accessToken used in communication with Web API. This can be used in client-side scripting towards the Web API if you would like to maintain your playlists etc. |
 | trackId         | String    | Read-only  | Track Id of the currently played track.                                                                                                                                     |
 | trackHref       | String    | Read-only  | Track URL of the currently played track.                                                                                                                                    |
